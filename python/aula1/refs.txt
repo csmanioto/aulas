@@ -1,0 +1,14 @@
+http://www.fumblingfoodie.com/wp-content/uploads/2016/01/CoatTheBackOfASpoon.jpg
+http://4.bp.blogspot.com/-JUlaBN5EDp0/T0rOs509bSI/AAAAAAAAAMk/uhJR33asmzc/s1600/python+snake.png
+https://www.khanacademy.org/computing/computer-programming/programming/intro-to-programming/v/programming-intro
+http://interactivepython.org/runestone/static/pythonds/Introduction/WhatIsProgramming.html
+http://www.bfoit.org/itp/Programming.html
+https://d37djvu3ytnwxt.cloudfront.net/c4x/MITx/6.00.1x/asset/handouts_lectureSlides_Lecture1_3.pdf
+https://panda.ime.usp.br/pensepy/static/pensepy/11-Dicionarios/dicionarios.html
+https://docs.python.org/3.5/tutorial/datastructures.html#dictionaries
+http://nb.bianp.net/sort/views/
+https://azure.microsoft.com/pt-br/documentation/articles/virtual-machines-linux-jupyter-notebook/
+http://openbookproject.net/thinkcs/python/english3e/tuples.html
+https://www.python.org/about/success/
+https://wiki.python.org/moin/Python2orPython3
+http://sebastianraschka.com/Articles/2014_python_2_3_key_diff.html
